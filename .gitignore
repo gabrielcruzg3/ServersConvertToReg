@@ -1,0 +1,49 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vsix
+*.zip
+*.7z
+*.rar
+*.swp
+*.swo
+*.bak
+*.tmp
+*.tmp.*
+*.bak.*
+*.userprefs
+*.bak
+*.bak.*
+*.bak_*
+*.log
+*.log.*
+*.log_*
+*.tmp
+*.tmp.*
+*.tmp_*
+*.swp
+*.swo
+output.reg.example
+servers.csv
+servers.xlsx
+publish/
